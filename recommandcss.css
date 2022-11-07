@@ -1,0 +1,71 @@
+/* header {
+    background-color: #a891612c;
+    padding: 1px;
+    border: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    
+} */
+h1{
+    border-left: 10px;
+    padding: 1%;
+    color: rgb(0, 0, 0);
+    background-color: lightgray;
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 140%
+    margin-left: 180%
+    margin-right: 180%;
+    border: 3px solid black;
+
+    border-radius: 15px;
+}
+
+h2{
+    text-align: center;
+    /* margin-right: 2%; 
+    width: 20em; */
+    float: center;
+    font-size: 9px;
+}
+
+
+.buttongood{
+    /* top: 50px;
+    left: 400px;
+    position: relative;
+    width: 90px; */
+    position: relative;
+    padding: 15px 30px;
+    border-radius: 15px;
+    top: 50px;
+    left: 500px;
+    font-family: "paybooc-Light", sans-serif;
+    box-shadow: 0 2px 35px rgba(44, 227, 87, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+
+    border: 3px solid #4ab94c;
+    color: #000000;
+}
+
+.buttonbad{
+    /* top: 70px;
+    left: 400px;
+    position: relative;
+    width: 90px; */
+    position: relative;
+    padding: 15px 30px;
+    border-radius: 15px;
+    top: 50px;
+    left: 500px;
+    font-family: "paybooc-Light", sans-serif;
+    box-shadow: 0 2px 35px rgba(221, 67, 53, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+
+    border: 3px solid #ff5f2e;
+    color: #000000;
+}
