@@ -69,3 +69,20 @@ h2{
     border: 3px solid #ff5f2e;
     color: #000000;
 }
+
+img {
+    /* position: relative;
+    border: 2px solid gray;
+    width: 80px; */
+
+    position: absolute;
+    width: 20%;
+    /*height: 40%;*/
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+
+    object-fit: fill;
+    border-radius: 13px;
+  }
+  
