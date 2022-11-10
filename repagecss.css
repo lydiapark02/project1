@@ -5,7 +5,7 @@ body>div{
 }
 .table_responsive {
     max-width: 900px;
-    border: 1px solid #000000;
+    border: 1px solid #3f3c42;
     background-color: #efefef33;
     padding: 15px;
     overflow: auto;
@@ -20,7 +20,7 @@ table {
     border-collapse: collapse;
 }
 table>thead {
-    background-color: #b3243c;
+    background-color: #33305e;
     color: #fff;
 }
 table>thead th {
